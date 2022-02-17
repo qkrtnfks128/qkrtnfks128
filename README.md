@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=qkrtnfks128)
+![qkrtnfks128's github stats](https://github-readme-stats.vercel.app/api?username=qkrtnfks128&show_icons=true)
+[![qkrtnfks128's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtnfks128&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/qkrtnfks128)
