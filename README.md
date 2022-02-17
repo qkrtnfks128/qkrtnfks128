@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. css]-[3. 1572B6]?style=flat-square&logo=[4. css3]&logoColor=white"/></a>
 ![trophy](https://github-profile-trophy.vercel.app/?username=qkrtnfks128)
 ![qkrtnfks128's github stats](https://github-readme-stats.vercel.app/api?username=qkrtnfks128&show_icons=true)
 [![qkrtnfks128's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtnfks128&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/qkrtnfks128)
